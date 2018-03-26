@@ -60,6 +60,9 @@ History's first automated store belongs to Keedoozle from 1937 [6], but it faced
 An ongoing competition held by Amazon seeks to solve the hard task of individually identifying, picking and stowing of items (for further processing and packaging), and the 2017 edition of the competition saw the winner inch closer to solving that problem [9].
 
 ###### frictionless shopping - reducing the pain of paying
+
+> Imagine this scene from the future: You walk into a store and are greeted by name, by a computer with facial recognition that directs you to the items you need. You peruse a small area — no chance of getting lost or wasting time searching for things — because the store stocks only sample items. You wave your phone in front of anything you want to buy, then walk out. In the back, robots retrieve your items from a warehouse and deliver them to your home via driverless car or drone. [12]
+
 Abstracting away the need to calculate the cost of purchases could potentially lead to more impulse purchases and overspending [11].
 
 >“Based on data,” says Manoj Thomas, a professor of marketing at Cornell University, “we know that when people use any abstract form of payment, they spend more. And the type of products they choose changes too.”
@@ -146,6 +149,9 @@ WIP
 10. Zosha M. Petitions, theft, moral quandries: Amazon Go 1½ weeks in. seattlepicom. 2018. Available at: https://goo.gl/wQJ5w7. Accessed March 26, 2018.
 
 11. Cindy D. Slick Amazon Go future has downsides too. Digitaleditionchicagotribunecom. Available at: https://goo.gl/xSwrtL. Accessed March 26, 2018.
+
+12. Miller C. Amazon’s Move Signals End of Line for Many Cashiers. Nytimescom. 2017. Available at: https://goo.gl/x7LyQb. Accessed March 26, 2018.
+
 
 
 
