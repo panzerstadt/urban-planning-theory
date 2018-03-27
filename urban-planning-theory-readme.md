@@ -4,9 +4,9 @@
 - offline : https://github.com/mobily/markdown-live  (you can whack in html elements)
 
 **HELPERS**
-- url shortener    : https://goo.gl
-- citation creator : http://www.citethisforme.com (reference style: AMA)
-
+- url shortener      : https://goo.gl
+- citation creator   : http://www.citethisforme.com (reference style: AMA)
+- ref on how to cite : https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/how-should-you-be-recording-citations-in-the-digital-era-97550a7c3da6
 ---
 
 ## Urban Planning Theory
