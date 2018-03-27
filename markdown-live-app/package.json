@@ -1,0 +1,35 @@
+{
+  "name": "markdown-live",
+  "version": "1.0.8",
+  "description": "Markdown preview with live update.",
+  "main": "app.js",
+  "author": "Marcin Dziewulski <hello@mobily.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "filewatcher": "^2.0.1",
+    "hamljs": "^0.6.2",
+    "marked": "^0.3.2",
+    "minimist": "^1.1.0",
+    "open": "0.0.5",
+    "socket.io": "^1.2.1",
+    "watch": "^0.13.0"
+  },
+  "devDependencies": {},
+  "bin": {
+    "mdlive": "bin/mdlive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobily/markdown-live.git"
+  },
+  "keywords": [
+    "markdown",
+    "live",
+    "preview"
+  ],
+  "bugs": {
+    "url": "https://github.com/mobily/markdown-live/issues"
+  },
+  "homepage": "https://github.com/mobily/markdown-live"
+}
